@@ -1,0 +1,40 @@
+.body{
+    margin: 0px;
+    padding:0px;
+}
+h1{
+    text-align: center;
+}
+.container{
+   
+    background-color: yellow;
+    height: 558px;
+    text-align: center;
+
+}
+table{
+    margin: auto;
+    height: 400px;
+    background-color: rgb(98, 159, 212);
+    border: 3px solid rgb(190, 237, 190);
+}
+input{
+    font-size: 24px;
+    height: 57px;
+    width: 280px;
+    border: 5px solid green;
+    background-color: azure;
+    color: rgb(20, 15, 15);
+}
+button{
+    font-size: 24px;
+   padding: 25px;
+   background-color: green;
+   color: white;
+   border-radius: 32px;
+}
+footer{
+    text-align: center;
+    margin-top: auto;
+}
+button:hover{cursor:pointer}
